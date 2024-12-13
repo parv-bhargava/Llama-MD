@@ -1,4 +1,4 @@
-# Dr. GPT
+# Llama-MD
 
 ## Directory Structure
 ```bash
